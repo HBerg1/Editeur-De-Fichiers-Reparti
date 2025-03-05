@@ -1,4 +1,8 @@
-# Nécessité
+# Editeur de Fichiers Coopératif et Réparti
+
+L’objectif de ce projet est de développer un éditeur coopératif réparti permettant à un ensemble d’utilisateurs de travailler simultanément sur un même document. 
+
+# Nécessités
 - JavaFX 17 ou 19
 - un JDK 17
 - Eclipse
